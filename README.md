@@ -1,0 +1,2 @@
+# easy_treatment_for_googletranslation
+针对将pdf文件中的句子复制到谷歌翻译中出现大量空格的问题，自动将文本中的\n符替换成空格。
